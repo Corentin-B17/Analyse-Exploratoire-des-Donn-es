@@ -1,3 +1,7 @@
+streamlit
+pandas
+numpy
+
 # Charger les données
 df = pd.read_excel("C:\\Users\\barbu\\Downloads\\salaries_data.xlsx", sheet_name="Sheet1")
 
