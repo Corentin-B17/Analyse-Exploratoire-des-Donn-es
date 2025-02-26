@@ -1,6 +1,9 @@
-streamlit
-pandas
-numpy
+pip install streamlit
+import pydot
+import pandas as pd
+import streamlit as st # Import streamlit
+import matplotlib.pyplot as plt # Import matplotlib
+import seaborn as sns # Import seaborn
 
 # Charger les données
 df = pd.read_excel("C:\\Users\\barbu\\Downloads\\salaries_data.xlsx", sheet_name="Sheet1")
