@@ -1,5 +1,6 @@
 pip install streamlit
-import pydot
+pydot
+graphviz
 import pandas as pd
 import streamlit as st # Import streamlit
 import matplotlib.pyplot as plt # Import matplotlib
